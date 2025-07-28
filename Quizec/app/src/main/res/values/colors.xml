@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="black">#252525</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="textfieldcreate">#E2ECF1</color>
+
+
+    <color name="tabbar"> #d2d3da</color>
+    <color name="def"> #f1eff3</color>
+    <color name="scarletQuizec">#ff3218 </color>
+    <color name="giantsOrangeQuizec">#FF611D </color>
+    <color name="darkOrangeQuizec">#FF8F22 </color>
+    <color name="selectiveYellowQuizec">#FFBD27 </color>
+    <color name="aureolinQuizec">#ffeb2c </color>
+    <color name="greenYellowQuizec">#ADEB4F </color>
+    <color name="screamingGreenQuizec"> #48BC5A </color>
+    <color name="mintQuizec">#2DCF9E </color>
+    <color name="moonstoneQuizec">#00B2CA </color>
+
+</resources>
